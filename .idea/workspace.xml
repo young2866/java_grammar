@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9907bb2-25ba-46f3-860d-33823ef91ef8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C01InputOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C02Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/C03Operater.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/C04IfStatements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_grammar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_grammar.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/C00HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/C00HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +19,7 @@
         <option value="Class" />
       </list>
     </option>
+    <option name="SCHEME" value="Project" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,32 +61,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.C03Operater">
-    <configuration name="C00HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C00HelloWorld" />
-      <module name="java_grammar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.C04IfStatements">
     <configuration name="C01InputOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C01InputOutput" />
       <module name="java_grammar" />
@@ -115,12 +101,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C04IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C04IfStatements" />
+      <module name="java_grammar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="java_grammar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C04IfStatements" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.C03Operater" />
         <item itemvalue="Application.C02Variable" />
         <item itemvalue="Application.C01InputOutput" />
-        <item itemvalue="Application.C00HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +137,17 @@
       <option name="presentableId" value="Default" />
       <updated>1701742679242</updated>
       <workItem from="1701742680384" duration="1099000" />
-      <workItem from="1701743788599" duration="14113000" />
+      <workItem from="1701743788599" duration="17872000" />
+      <workItem from="1701824420441" duration="264000" />
+      <workItem from="1701824691313" duration="71000" />
+      <workItem from="1701824768820" duration="52000" />
+      <workItem from="1701824827178" duration="53000" />
+      <workItem from="1701824886218" duration="35000" />
+      <workItem from="1701824926963" duration="21000" />
+      <workItem from="1701824953352" duration="22000" />
+      <workItem from="1701824981677" duration="18000" />
+      <workItem from="1701825005689" duration="17000" />
+      <workItem from="1701825027478" duration="4691000" />
     </task>
     <servers />
   </component>
